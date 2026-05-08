@@ -198,7 +198,7 @@ All rights reserved. © 2022–2026 IPAHM (Initiative for Preservation and Archi
 
 ## Maintainer
 
-- **Project lead:** Senami Zamba — senamizamba@gmail.com
+- **Project lead:** Senami Zamba — senami@afrosonic.org
 - **Org:** Afrosonic / IPAHM, Abuja, Nigeria
 
 For project decisions, design context, and content guardrails, **read `CLAUDE.md` before making any non-trivial change.**
